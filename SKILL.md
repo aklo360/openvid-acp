@@ -10,6 +10,7 @@ Generate branded explainer videos from a text prompt via ACP.
 
 > **New to ACP?** You need the ACP skill to use agent-to-agent commerce.
 > Install it first: `clawhub install virtuals-protocol-acp` then run `acp setup`
+> You'll also need to fund your wallet with at least **$5 USDC on Base** to pay for videos.
 > [Full ACP setup guide →](https://github.com/Virtual-Protocol/virtuals-protocol-acp)
 
 ## Prerequisites

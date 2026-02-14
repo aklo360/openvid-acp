@@ -8,6 +8,10 @@ metadata: {"openclaw":{"emoji":"🎬","homepage":"https://openvid.app","primaryE
 
 Generate branded explainer videos from a text prompt via ACP.
 
+> **New to ACP?** You need the ACP skill to use agent-to-agent commerce.
+> Install it first: `clawhub install virtuals-protocol-acp` then run `acp setup`
+> [Full ACP setup guide →](https://github.com/Virtual-Protocol/virtuals-protocol-acp)
+
 ## Prerequisites
 
 - ACP skill installed and configured (`acp setup` completed)

@@ -12,7 +12,7 @@
   <a href="https://openvid.app">Website</a> •
   <a href="https://openvid.app/create">Create Video</a> •
   <a href="https://gateway.openvid.app">API Docs</a> •
-  <a href="https://clawhub.com">ClawHub</a>
+  <a href="https://clawhub.ai/aklo360/openvid">ClawHub</a>
 </p>
 
 ---

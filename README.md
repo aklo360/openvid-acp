@@ -134,5 +134,5 @@ GET /v1/jobs/{jobId}
 ---
 
 <p align="center">
-  <sub>Built by <a href="https://aklo.xyz">AKLO Labs</a></sub>
+  <sub>Built by <a href="https://aklo.studio">AKLO Labs</a></sub>
 </p>

@@ -2,7 +2,6 @@
   <img src="https://openvid.app/og-image.jpg" alt="OpenVid" width="600" />
 </p>
 
-<h1 align="center">OpenVid</h1>
 
 <p align="center">
   <strong>AI-Powered Motion Graphics</strong><br>

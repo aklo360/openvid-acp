@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://openvid.app/og-image.jpg" alt="OpenVid" width="600" />
+  <img src="https://openvid.app/og-image.jpg?v=2" alt="OpenVid" width="600" />
 </p>
 
 
